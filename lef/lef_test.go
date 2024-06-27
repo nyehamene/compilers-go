@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/nyehamene/lang/lef/parser"
-	"github.com/nyehamene/lang/lef/token"
-	"github.com/nyehamene/lang/lef/tokenizer"
+	"github.com/nyehamene/compilers-go/lef/parser"
+	"github.com/nyehamene/compilers-go/lef/token"
+	"github.com/nyehamene/compilers-go/lef/tokenizer"
 )
 
 var tokenizerTestData = []struct {

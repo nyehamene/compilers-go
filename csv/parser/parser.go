@@ -3,8 +3,8 @@ package parser
 import (
 	"errors"
 
-	"github.com/nyehamene/lang/csv/token"
-	"github.com/nyehamene/lang/csv/tokenizer"
+	"github.com/nyehamene/compilers-go/csv/token"
+	"github.com/nyehamene/compilers-go/csv/tokenizer"
 )
 
 type Parser struct {

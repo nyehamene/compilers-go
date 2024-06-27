@@ -3,7 +3,7 @@ package tokenizer
 import (
 	"errors"
 
-	"github.com/nyehamene/lang/csv/token"
+	"github.com/nyehamene/compilers-go/csv/token"
 )
 
 type Tokenizer struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nyehamene/lang/csv/parser"
-	"github.com/nyehamene/lang/csv/tokenizer"
+	"github.com/nyehamene/compilers-go/csv/parser"
+	"github.com/nyehamene/compilers-go/csv/tokenizer"
 )
 
 func main() {

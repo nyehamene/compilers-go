@@ -1,7 +1,7 @@
 package tokenizer
 
 import (
-	"github.com/nyehamene/lang/lef/token"
+	"github.com/nyehamene/compilers-go/lef/token"
 )
 
 type Tokenizer struct {

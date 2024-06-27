@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/nyehamene/lang/csv/parser"
-	"github.com/nyehamene/lang/csv/token"
-	"github.com/nyehamene/lang/csv/tokenizer"
+	"github.com/nyehamene/compilers-go/csv/parser"
+	"github.com/nyehamene/compilers-go/csv/token"
+	"github.com/nyehamene/compilers-go/csv/tokenizer"
 )
 
 var testdata = []struct {

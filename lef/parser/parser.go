@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/nyehamene/lang/lef/token"
-	"github.com/nyehamene/lang/lef/tokenizer"
+	"github.com/nyehamene/compilers-go/lef/token"
+	"github.com/nyehamene/compilers-go/lef/tokenizer"
 )
 
 type Parser struct {
